@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sa-dia&show_icons=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=Sa-dia)
+-->
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sa-dia&show_icons=true&theme=default&count_private=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sa-dia)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-dia&layout=compact&theme=default)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sa-dia&theme=default)](https://git.io/streak-stats)
