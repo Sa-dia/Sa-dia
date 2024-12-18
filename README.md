@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sa-dia&show_icons=true&theme=default&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sa-dia&theme=default)](https://git.io/streak-stats)
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sa-dia&theme=default)
+![GitHub Contribution Graph](github_contribution_graph.png)
