@@ -9,7 +9,6 @@ Currently, I’m focusing on improving my frontend skills and exploring **full-s
 ---
 
 ### 💡 About Me  
-- 🔭 I’m currently working on:   
 - 🌱 I’m currently learning: **React Hooks, REST APIs, and Django Integration**  
 - 💬 Ask me about: **React.js, Tailwind CSS, or Django**  
 - 🎓 I’m a **Computer Science graduate**, passionate about continuous growth  
@@ -27,7 +26,7 @@ Currently, I’m focusing on improving my frontend skills and exploring **full-s
 ---
 
 ### 📫 Connect With Me  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/sadiahossainju/))  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/sadiahossainju/] 
 - 📧 Email: hossainsadia2000@gmail.com  
 
 ---
