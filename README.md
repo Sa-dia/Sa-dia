@@ -9,7 +9,7 @@ Currently, I’m focusing on improving my frontend skills and exploring **full-s
 ---
 
 ### 💡 About Me  
-- 🌱 I’m currently learning: **React Hooks, REST APIs, and Django Integration**  
+- 🌱 I’m currently learning: **React Hooks, REST APIs, and Django Integration,Nodejs**  
 - 💬 Ask me about: **React.js, Tailwind CSS, or Django**  
 - 🎓 I’m a **Computer Science graduate**, passionate about continuous growth  
 - 💻 I enjoy turning ideas into functional, beautiful web apps  
