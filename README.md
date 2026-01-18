@@ -1,33 +1,66 @@
 ## Hi there 👋 I'm Sadia Hossain  
 
-🎯 **Aspiring Software Engineer/SQA Engineer | Tech Enthusiast | Lifelong Learner**
+🎯 **Aspiring SQA / Manual QA Engineer | Quality Advocate | Detail-Oriented Tester**
 
 Welcome to my GitHub profile!  
-I’m passionate about building interactive and user-friendly web experiences with **React, JavaScript, and modern web technologies.**  
-Currently, I’m focusing on improving my frontend skills and exploring **full-stack development** and also try to learn **manual testing**
+I am passionate about **software quality assurance**, ensuring reliable, user-friendly, and bug-free applications.  
+Currently, I am focusing on **manual testing**, test case design, defect reporting, and understanding real-world QA workflows.
 
 ---
 
 ### 💡 About Me  
-- 🌱 I’m currently learning: **React Hooks, REST APIs, and Django Integration,Nodejs, Manual Testing**  
-- 💬 Ask me about: **React.js, Tailwind CSS, or Django**  
-- 🎓 I’m a **Computer Science graduate**, passionate about continuous growth  
-- 💻 I enjoy turning ideas into functional, beautiful web apps  
-- ⚡ Fun fact: I love solving frontend challenges and optimizing UI layouts!  
+- 🧪 Learning and practicing **Manual Testing & STLC**
+- 📋 Skilled in **test case design, test execution, and defect reporting**
+- 🐞 Experienced with **Jira-style bug tracking**
+- 🎓 **Computer Science graduate** with a strong technical foundation
+- 💻 Able to understand application behavior from both **user and technical perspectives**
+- ⚡ Fun fact: I enjoy finding edge cases and improving product usability
 
 ---
 
-### 🛠️ Tech Stack  
-**Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap  
-**Backend:** Django, Node.js (Basics)  
-**Database:** MySQL, SQLite  
-**Tools & Platforms:** Git, GitHub, VS Code, Figma  
-**Project Mangement Tools:** Trello, Jira
+### 🛠️ SQA Skill Set  
+
+**Testing Types**
+- Manual Testing
+- Functional Testing
+- UI Testing
+- Regression Testing
+- Smoke Testing
+- Validation Testing
+
+**Testing Artifacts**
+- Test Scenarios
+- Test Cases (Positive & Negative)
+- Bug Reports (Jira Style)
+- Test Summary Reports
+
+**Tools**
+- Jira
+- Excel / Google Sheets
+- Google Docs / MS Word
+- Git & GitHub
+
+**Technical Knowledge (Supportive)**
+- HTML, CSS, JavaScript (Basic understanding)
+- Django & Node.js (Basic understanding)
+- SQL (Basic)
+
+---
+
+### 📂 Testing Portfolio  
+🧪 **Manual Testing Project – Event Registration System**  
+
+- Designed and executed manual test cases  
+- Reported defects with severity and priority  
+- Prepared test summary report with execution results  
+
+🔗 **Portfolio Repository:**  
+https://github.com/Sa-dia/Manual_Testing_Document_for_Event_Registration
 
 ---
 
 ### 📫 Connect With Me  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/sadiahossainju/] 
+- 💼 LinkedIn: https://www.linkedin.com/in/sadiahossainju/  
 - 📧 Email: hossainsadia2000@gmail.com  
 
 ---
@@ -41,9 +74,8 @@ Currently, I’m focusing on improving my frontend skills and exploring **full-s
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-dia&layout=compact&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sa-dia&show_icons=true&theme=tokyonight&count_private=true)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sa-dia&theme=tokyonight)](https://git.io/streak-stats)  
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sa-dia&theme=tokyonight)  
 
 ---
 
-### 🌱 “Code. Learn. Repeat.”  
-> *Every project is a step closer to becoming the developer I aspire to be.*
+### 🌱 “Test. Improve. Deliver Quality.”  
+> *Quality is never accidental; it is the result of intelligent effort.*
