@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sadia Hossain  
 
-🎯 **Aspiring SQA / Manual QA Engineer | Quality Advocate | Detail-Oriented Tester**
+🎯 **Aspiring SQA / Manual QA Engineer | Detail-Oriented Tester**
 
 Welcome to my GitHub profile!  
 I am passionate about **software quality assurance**, ensuring reliable, user-friendly, and bug-free applications.  
