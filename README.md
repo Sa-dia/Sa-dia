@@ -66,7 +66,7 @@ https://github.com/Sa-dia/Manual_Testing_Document_for_Event_Registration
 ---
 
 ### 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sa-dia&theme=flat&no-frame=true&margin-w=10)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sa-dia&theme=gruvbox&column=4&margin-w=15&margin-h=15)
 
 ---
 
