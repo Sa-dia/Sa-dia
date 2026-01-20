@@ -9,8 +9,7 @@ Currently, I am focusing on **manual testing**, test case design, defect reporti
 ---
 
 ### 💡 About Me  
--  🔗 **My Portfolio:**  
-(https://sadia-s-portfolio.vercel.app/)
+-  🔗 **My Portfolio:**[(https://sadia-s-portfolio.vercel.app/)]
 - 🧪 Learning and practicing **Manual Testing & STLC**
 - 📋 Skilled in **test case design, test execution, and defect reporting**
 - 🐞 Experienced with **Jira-style bug tracking**
@@ -75,7 +74,7 @@ https://github.com/Sa-dia/Manual_Testing_Document_for_Event_Registration
 ### 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-dia&layout=compact&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sa-dia&show_icons=true&theme=tokyonight&count_private=true)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sa-dia&theme=tokyonight)](https://git.io/streak-stats)  
+=[![GitHub Streak](https://streak-stats.demolab.com/?user=Sa-dia)](https://git.io/streak-stats) 
 
 ---
 
