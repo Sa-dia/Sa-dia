@@ -9,6 +9,8 @@ Currently, I am focusing on **manual testing**, test case design, defect reporti
 ---
 
 ### 💡 About Me  
+-  🔗 **My Portfolio:**  
+(https://sadia-s-portfolio.vercel.app/)
 - 🧪 Learning and practicing **Manual Testing & STLC**
 - 📋 Skilled in **test case design, test execution, and defect reporting**
 - 🐞 Experienced with **Jira-style bug tracking**
