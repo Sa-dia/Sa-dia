@@ -1,6 +1,4 @@
-<table>
-  <tr>
-    <td>
+
 
 ## Hi there 👋 I'm Sadia Hossain  
 
@@ -10,12 +8,7 @@ Welcome to my GitHub profile!
 I am passionate about **software quality assurance**, ensuring reliable, user-friendly, and bug-free applications.  
 Currently, I am focusing on **manual testing**, test case design, defect reporting, and understanding real-world QA workflows.
 
-    </td>
-    <td width="150">
-      <img width="208" height="224" alt="software-testing-abstract-concept-vector-260nw-1918219556" src="https://github.com/user-attachments/assets/87ede795-0f80-4c47-9e6a-42bc65c10c44" />
-    </td>
-  </tr>
-</table>
+ 
 ---
 
 ### 💡 About Me  
