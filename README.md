@@ -9,13 +9,25 @@ Currently, I am focusing on **manual testing**, test case design, defect reporti
 ---
 
 ### 💡 About Me  
--  🔗 **My Portfolio:**[(https://sadia-s-portfolio.vercel.app/)]
+-  🔗**My Portfolio:**(https://sadia-s-portfolio.vercel.app/)
 - 🧪 Learning and practicing **Manual Testing & STLC**
 - 📋 Skilled in **test case design, test execution, and defect reporting**
 - 🐞 Experienced with **Jira-style bug tracking**
 - 🎓 **Computer Science graduate** with a strong technical foundation
 - 💻 Able to understand application behavior from both **user and technical perspectives**
 - ⚡ Fun fact: I enjoy finding edge cases and improving product usability
+
+---
+
+### 🏆 GitHub Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sa-dia&theme=gruvbox&column=4&margin-w=15&margin-h=15)
+
+---
+
+### 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-dia&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sa-dia&show_icons=true&theme=tokyonight&count_private=true)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sa-dia)](https://git.io/streak-stats) 
 
 ---
 
@@ -66,17 +78,7 @@ https://github.com/Sa-dia/Manual_Testing_Document_for_Event_Registration
 
 ---
 
-### 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sa-dia&theme=gruvbox&column=4&margin-w=15&margin-h=15)
 
----
-
-### 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-dia&layout=compact&theme=tokyonight)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sa-dia&show_icons=true&theme=tokyonight&count_private=true)  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Sa-dia)](https://git.io/streak-stats) 
-
----
 
 ### 🌱 “Test. Improve. Deliver Quality.”  
 > *Quality is never accidental; it is the result of intelligent effort.*
