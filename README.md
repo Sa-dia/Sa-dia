@@ -74,7 +74,7 @@ https://github.com/Sa-dia/Manual_Testing_Document_for_Event_Registration
 ### 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sa-dia&layout=compact&theme=tokyonight)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sa-dia&show_icons=true&theme=tokyonight&count_private=true)  
-=[![GitHub Streak](https://streak-stats.demolab.com/?user=Sa-dia)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Sa-dia)](https://git.io/streak-stats) 
 
 ---
 
